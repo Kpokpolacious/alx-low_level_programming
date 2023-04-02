@@ -1,0 +1,2 @@
+nodeptr = NULL
+firstnode = nodeptr & data(node+ptr)

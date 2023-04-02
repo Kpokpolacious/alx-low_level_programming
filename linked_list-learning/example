@@ -1,0 +1,24 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct node *nodeptr{
+	node;
+	nodeptr;
+};
+
+//*nodeptr is used as node
+
+int main()
+{
+	firstnode;
+	node;
+	nodeptr;
+
+	ptr = malloc(sizeof(node));
+	node = 60;
+	{
+		for (i = 0; (i+1) =< 60; i++)
+		where i = node.ptr;
+		printf("hello, kpokpo!\n");
+	}
+}
